@@ -1,0 +1,264 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+.menu ul {
+  display: flex;
+
+}
+.menu li {
+  margin: 20px;
+  border-top: 1px;
+  border-bottom: 1px;
+}
+.menu a:hover {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+
+}
+.menu a {
+  color: #333333;
+}
+.menu {
+  display: flex;
+  justify-content: space-around;
+}
+.photo {
+  margin-top: 5px;
+}
+.section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.text {
+  font-size: 3rem;
+ margin-left: 240px;
+  
+  
+}
+.gray {
+  font-weight: 300;
+  color: gray;
+}
+.bold {
+  font-weight: 700;
+}
+
+.strelochka a {
+  border: 1px solid #F2F2F2;
+  color: black;
+  padding:0px 10px;
+}
+span a:hover {
+  background-color: gray;
+}
+.strelochka, p span {
+  padding: 10px;
+  color: #BDBDBD;
+}
+.strelochka a {
+  margin-top: 150px;
+}
+.number {
+  margin-top: 50px;
+}
+.photo_section a{
+  position: absolute;
+  top: 809px;
+  right: 704px;
+  background-color: white;
+  color: black;
+  padding: 30px 86px 30px 51px;
+}
+.background-color {
+  background-color: #FBFBFB;
+  width: 1279px;
+  height: 435px;
+  margin: 100px auto;
+  display: flex;
+ 
+}
+.photo-1, .photo-2 {
+  padding: 30px 30px 0px 100px;
+}
+
+.text_and_photo {
+  display: flex;
+}
+.photo_two_title {
+  padding: 30px 60px 85px 30px;
+}
+.font-64 {
+  font-size: 4rem;
+  padding: 30px 116px 20px 30px;
+  color: #BDBDBD;
+}
+.font-16 {
+  padding: 0px 121px 20px 30px;
+  margin-bottom: 30px;
+}
+.text_two_title a {
+  border: 1px solid white;
+  color: black;
+  background-color: white;
+  margin-left: 30px;
+  padding: 20px 70px 20px 45px;
+
+}
+.osnove_exemp {
+  
+  font-size: 4rem;
+  color: #BDBDBD;
+  margin-left: 135px;
+  margin-bottom: 60px;
+}
+.flex {
+  display: flex;
+  margin-left: 135px;
+  justify-content: space-around;
+}
+
+.text_number {
+  display: flex;
+}
+.text-1, .text-2 {
+  font-size: 1.5rem;
+  margin-left: 40px;
+}
+
+.text_number2 {
+  display: flex;
+}
+.my_project {
+  margin-top: 139px;
+  font-size: 4rem;
+  color: #BDBDBD;
+}
+.flex_photo1 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.flex_photo2 {
+  display: flex;
+  
+}
+.flex_photo2 img {
+  margin-left: 160px;
+}
+.all {
+  margin-left: 135px;
+  
+}
+.photo-5 {
+  padding-left: 20px;
+}
+.button-all {
+  margin-top: 40px;
+  text-align: right;
+  margin-right: 158px;
+}
+
+.button-all a {
+  color: white;
+  border: 1px solid black;
+  background-color: black;
+  padding: 30px 75px 20px 40px;
+  
+}
+.title-3 {
+  font-size: 4rem;
+  color: #BDBDBD;
+  margin-bottom: 30px;
+  margin-left: 140px;
+}
+.connection_title {
+  display: flex;
+  margin-left: 140px;
+}
+.flex_p {
+  display: flex;
+ 
+}
+
+.name, .nomer, .email, .service {
+  padding: 15px 341px 14px 21px;
+  margin-bottom: 30px;
+}
+.massenge {
+  padding: 14px 341px 116px 21px;
+}
+.photo-connection {
+  margin-left: 190px;
+}
+
+.flex_p p {
+  padding: 10px;
+}
+.btn-title {
+  margin-top: 20px;
+  
+}
+.btn-title a {
+  background-color: black;
+  color: white;
+  padding: 25px 75px 20px 47px;
+}
+.back-footer {
+  margin-top: 130px;
+  background-color: black;
+  color: white;
+}
+
+.flex-all {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+.text_flex p {
+  padding-bottom: 20px;
+}
+.text_flex a {
+  color: white;
+}
+
+.footer-div {
+  text-align: center;
+}
+
+
+.class-ttextt2  {
+  display: flex;
+}
+.class-ttextt2 {
+  padding-bottom: 60px;
+}
+.class-ttextt2 p {
+  padding-left: 10px;
+}
+/* отступ для контактов */
+.eee {
+  padding-bottom: 24px;
+}
+.photo_flex3 > a {
+  padding-top: 10px;
+  padding-right: 10px;
+}
+.footer-div {
+  border-top: 1px solid red
+}
+.footer-div p {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}

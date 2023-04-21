@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+  }
+  a {
+    text-decoration: none;
+  }
+  ul {
+    list-style-type: none;
+  }
+  .menu ul {
+    display: flex;
+  
+  }
+  .menu li {
+    margin: 20px;
+    border-top: 1px;
+    border-bottom: 1px;
+  }
+  .menu a:hover {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+  
+  }
+  .menu a {
+    color: #333333;
+  }
+  .menu {
+    display: flex;
+    justify-content: space-around;
+  }
+  .photo {
+    margin-top: 5px;
+  }
+  .serteficat {
+    color: #BDBDBD;
+    margin-left: 328px;
+    font-size: 3rem;
+    font-weight: 300px;
+    margin-top: 92px;
+  }
+  .serteficat span {
+    color: #333333;
+    font-weight: 700;
+  }
+  .photo-serteficat {
+    text-align: center;
+  }
+  .padding-photo {
+    padding: 70px;
+  }
+  .btn-title-main  {
+    display: flex;
+    justify-content: right;
+    margin-right: 236px;
+        
+   }
+   .color_grey_title {
+       color: #BDBDBD;
+
+   } 
+ 
+   .down-title-btn div {
+       padding: 0 30px;
+   }
+   .down-title-btn  {
+       font-size: 2.5rem;
+       padding:10px;
+   }
+   .btn-title-main {
+       
+       padding: 10px;
+       
+   }
+   .navigetion-title a {
+       border: 1px solid;
+       font-size: 2.5rem;
+       color: black;
+       padding: 0 10px;
+       margin: 10px;
+       
+   }
+   .navigetion-title a:hover {
+       background-color: #F2F2F2;
+   }
+   .back-footer {
+    margin-top: 130px;
+    background-color: black;
+    color: white;
+  }
+  
+  .flex-all {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  
+  }
+  .text_flex p {
+    padding-bottom: 20px;
+  }
+  .text_flex a {
+    color: white;
+  }
+  
+  .footer-div {
+    text-align: center;
+  }
+  
+  
+  .class-ttextt2  {
+    display: flex;
+  }
+  .class-ttextt2 {
+    padding-bottom: 60px;
+  }
+  .class-ttextt2 p {
+    padding-left: 10px;
+  }
+  /* отступ для контактов */
+  .eee {
+    padding-bottom: 24px;
+  }
+  .photo_flex3 > a {
+    padding-top: 10px;
+    padding-right: 10px;
+  }
+  .footer-div {
+    border-top: 1px solid red
+  }
+  .footer-div p {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
